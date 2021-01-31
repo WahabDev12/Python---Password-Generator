@@ -1,19 +1,20 @@
 # Python---Password-Generator
 
-🛠Install flask using the command🛠
+## Installation
 
--- pip install flask --
+### Clone this repo
+```
+git clone https://github.com/WahabDev12/Python-Password-Generator.git
+cd Python-Password-Generator
+```
 
-⭐Run this command in your terminal⭐
+### Install Flask
+```
+pip install flask
+```
 
-⭐Create two folders⭐
-1.templates 2. static
+### Start server
 
-✔Move --index.html-- to templates 
-✔Move -- style.css bootstrap.min.css and img-- to static
-
-⭐Run flask app in terminal⭐
-
--- Type python app.py --- 
-
-Or click on RUN ▶️ to start the application.
+```
+python app.py
+```
